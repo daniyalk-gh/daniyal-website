@@ -1,8 +1,7 @@
 body {
   font-family: 'Helvetica Neue', Arial, sans-serif;
-  line-height: 1.7;
-  color: #79a83a;
-  background-color: #aa4cc7;
+  color: #e9e9e9;
+  background-color: #3a383a;
   margin: 0;
   padding: 0;
 }
@@ -19,7 +18,7 @@ header h1 {
 }
 
 .subtitle {
-  color: #666;
+  color: #1E1E1E;
   font-size: 1.1rem;
 }
 
@@ -48,15 +47,15 @@ main {
 
 .story h2 {
   font-size: 1.6rem;
-  color: #111;
+  color: #E0E0E0;
   margin-bottom: 10px;
 }
 
 footer {
   text-align: center;
   padding: 30px 10px;
-  border-top: 1px solid #ddd;
-  color: #555;
+  border-top: 1px solid #E0E0E0;
+  color: #E0E0E0;
   font-size: 0.9rem;
 }
 
